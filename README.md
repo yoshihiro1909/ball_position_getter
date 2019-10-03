@@ -12,6 +12,7 @@ This is a program for using the Las Perry Pi as a ball detection sensor. The pos
 - Tkinter
 
 Just installing Pillow is not enough. Add the module by executing the following command.  
+  
 ```sudo apt-get install python-imaging-tk```
 
 ## Usage
