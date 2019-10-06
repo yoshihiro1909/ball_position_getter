@@ -2,7 +2,7 @@ ball_position_getter
 ====
 
 ## Description
-This is a program for using the Las Perry Pi as a ball detection sensor. The position information of the ball detected by shooting from directly above is output in distance and angle. Because it is under development, it is a beta version.
+This is a program for using the Raspberry Pi as a ball detection sensor. The position information of the ball detected by shooting from directly above is output in distance and angle. Because it is under development, it is a beta version.
 
 ## Requirement
 - Python 2.7.13
